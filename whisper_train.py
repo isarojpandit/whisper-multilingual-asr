@@ -6,7 +6,7 @@ import pandas as pd
 
 # Base directory where language folders are stored
 base_dir = "/media/linux/Seagate/Other_users/Saroj/Indic_dataset"
-model = whisper.load_model("medium")
+model = whisper.load_model("medium/turbo/large")
 lang_map = {
     "Assamese": "as", "Bengali": "bn", "Dogri": "doi", "Gujarati": "gu",
     "Hindi": "hi", "Kannada": "kn", "Maithili": "mai", "Malayalam": "ml",
