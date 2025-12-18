@@ -60,8 +60,10 @@ https://www.iitm.ac.in/donlab/indictts/database
 
 ## Authors
 	•	Saroj Pandit
-	•	Ravindra Kumar M. Purohit
-	•	Advisor: Prof. Hemant A. Patil
+	•	Ravindrakumar M. Purohit
+	•	Prof. Hemant A. Patil
+
+	(202418048, 202321002, hemant_patli)@dau.ac.in
 
 Speech Research Lab, DAIICT
 
